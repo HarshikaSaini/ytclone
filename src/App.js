@@ -3,7 +3,7 @@ import { Box } from "@mui/material";
 import { Navbar,ChannelDetail,VideoDetail,SearchDetail,Feed } from "./components";
 const App = () => (
     <BrowserRouter>
-        <Box sx={{ backgroundColor: "pink" }}>
+        <Box sx={{ backgroundColor: "black" }}>
             <Navbar />
 
             <Routes>
