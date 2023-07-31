@@ -20,7 +20,7 @@ const Feed = () => {
                 <Typography className="copyright" variant="body2"
                     sx={{ mt: 1.5, color: "#fff" }}
                 >
-                    Copyright 2023 jsm
+                    Copyright 2023 Youtube 2.o
                 </Typography>
             </Box>
 

@@ -16,7 +16,7 @@ a {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: rgb(114, 113, 113);
+  background-color: rgb(107, 105, 105);
   border-radius: 10px;
   height: 200px;
 }
@@ -26,7 +26,7 @@ a {
 }
 
 .category-btn:hover {
-  background-color: #FC1503 !important;
+  background-color: #f72b1d !important;
   color: white !important;
 }
 
